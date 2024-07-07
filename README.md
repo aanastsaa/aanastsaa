@@ -17,7 +17,6 @@ On my page you can find projects in various directions that were carried out at 
 
 <br>
 
-
 - **Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -25,9 +24,7 @@ On my page you can find projects in various directions that were carried out at 
     ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![PHP](https://img.shields.io/badge/Php-BC52EE.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aanastsaa)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aanastsaa&theme=solarized_dark)
 <br>
