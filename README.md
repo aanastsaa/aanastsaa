@@ -7,16 +7,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+GitHub+page"></a> 
 </p>
 
-
-## About me
-
-<br>
-
-As a young specialist, I would like to gain new experience, knowledge and skills, explore new technologies and work on interesting projects both as a team and individually.
-On my page you can find projects in various directions that were carried out at the university, in collaboration with someone, in different courses and in personal interests for self-development.
-
-<br>
-
 - **Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
